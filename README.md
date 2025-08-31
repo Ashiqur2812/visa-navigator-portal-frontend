@@ -48,6 +48,6 @@ The application is built using React and the Sunflower API. It fetches data from
 ![Screenshot 5](./public/images/screen-3.jpeg)
 ![Screenshot 6](./public/images/screen-5.jpeg)
 
-Name: Md. Ranju
+Name: Muhammad Ashiqur Rahman
 
-Github: https://github.com/muhammadranju
+Github: https://github.com/Ashiqur2812
